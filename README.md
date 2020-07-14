@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**rafipiccolo/rafipiccolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    I'm Raphael.<br>
+    A freelance Web Designer & Developer from Paris, France. I design and develop websites, landing pages and applications for startups and enterprises. <br>
+    See my CV : https://cv.raphaelpiccolo.com<br>
+    See my work : https://studio.raphaelpiccolo.com<br>
+    <br><br>
+    Contact me on my <a href="mailto:rafi.piccolo@gmail.com">Email</a>
+  </samp>
+</p>
